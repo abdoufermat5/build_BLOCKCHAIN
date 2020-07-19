@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa22d21f-3190-4c69-a001-09215d1e2e98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Build_BLOCKCHAIN" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="abdoufermat" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1er9yJHqSIbJvcOyz5sCOVI7vVp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../another_PYCOURSE" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RSettingsProjectConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="blockchain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Build_BLOCKCHAIN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.blockchain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa22d21f-3190-4c69-a001-09215d1e2e98" name="Default Changelist" comment="" />
+      <created>1595069097949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595069097949</updated>
+      <workItem from="1595069099552" duration="5378000" />
+      <workItem from="1595078196756" duration="1302000" />
+      <workItem from="1595079630935" duration="16586000" />
+      <workItem from="1595100613674" duration="11088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="90" key="#Notifications" timestamp="1595152846055">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="722" y="90" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1595152846055" />
+    <state x="379" y="25" key="CommitChangelistDialog2" timestamp="1595154597162">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="379" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1595154597162" />
+    <state x="933" y="187" key="FileChooserDialogImpl" timestamp="1595077732017">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="933" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595077732017" />
+    <state x="596" y="346" width="368" height="171" key="Github.CreateGistDialog" timestamp="1595154432584">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="596" y="346" width="368" height="171" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1595154432584" />
+    <state width="724" height="212" key="GridCell.Tab.0.bottom" timestamp="1595117096537">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595117096537" />
+    <state width="724" height="212" key="GridCell.Tab.0.center" timestamp="1595117096537">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595117096537" />
+    <state width="724" height="212" key="GridCell.Tab.0.left" timestamp="1595117096537">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595117096537" />
+    <state width="724" height="212" key="GridCell.Tab.0.right" timestamp="1595117096537">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="724" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595117096537" />
+    <state x="698" y="178" key="IDE.errors.dialog" timestamp="1595080069990">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="698" y="178" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1595080069990" />
+    <state x="540" y="76" key="SettingsEditor" timestamp="1595107656917">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="540" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595107656917" />
+    <state x="794" y="165" width="700" height="530" key="recent.locations.popup" timestamp="1595083071625">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="794" y="165" width="700" height="530" key="recent.locations.popup/0.0.1536.864@0.0.1536.864" timestamp="1595083071625" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Build_BLOCKCHAIN$blockchain.coverage" NAME="blockchain Coverage Results" MODIFIED="1595116440517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
