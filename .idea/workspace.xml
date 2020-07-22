@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa22d21f-3190-4c69-a001-09215d1e2e98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rpackages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Build_BLOCKCHAIN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Build_BLOCKCHAIN.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fa22d21f-3190-4c69-a001-09215d1e2e98" name="Default Changelist" comment="building a blockchain">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blockchain.py" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain.py" afterDir="false" />
     </list>
@@ -31,9 +27,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Build_BLOCKCHAIN" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,6 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../another_PYCOURSE" />
@@ -113,7 +107,7 @@
       <workItem from="1595100613674" duration="11088000" />
       <workItem from="1595152830465" duration="4143000" />
       <workItem from="1595184528232" duration="109000" />
-      <workItem from="1595408316673" duration="553000" />
+      <workItem from="1595408316673" duration="1263000" />
     </task>
     <task id="LOCAL-00001" summary="building a blockchain">
       <created>1595154615438</created>
@@ -129,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595156140579</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="building a blockchain">
+      <created>1595409084071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595409084071</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,10 +157,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="654" y="295" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1595408331238" />
-    <state x="417" y="114" width="523" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1595408621781">
+    <state x="417" y="114" width="523" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1595408912820">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="417" y="114" width="523" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1595408621781" />
+    <state x="417" y="114" width="523" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1595408912820" />
     <state x="933" y="187" key="FileChooserDialogImpl" timestamp="1595408512818">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
