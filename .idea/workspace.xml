@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa22d21f-3190-4c69-a001-09215d1e2e98" name="Default Changelist" comment="" />
+    <list default="true" id="fa22d21f-3190-4c69-a001-09215d1e2e98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rpackages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Build_BLOCKCHAIN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Build_BLOCKCHAIN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blockchain.py" beforeDir="false" afterPath="$PROJECT_DIR$/blockchain.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,23 +43,28 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="abdoufermat" />
-      </list>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="a0c7jyvf" />
   </component>
   <component name="ProjectId" id="1er9yJHqSIbJvcOyz5sCOVI7vVp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../another_PYCOURSE" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RSettingsProjectConfigurable" />
   </component>
@@ -67,18 +97,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,29 +111,59 @@
       <workItem from="1595078196756" duration="1302000" />
       <workItem from="1595079630935" duration="16586000" />
       <workItem from="1595100613674" duration="11088000" />
+      <workItem from="1595152830465" duration="4143000" />
+      <workItem from="1595184528232" duration="109000" />
+      <workItem from="1595408316673" duration="553000" />
     </task>
+    <task id="LOCAL-00001" summary="building a blockchain">
+      <created>1595154615438</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595154615438</updated>
+    </task>
+    <task id="LOCAL-00002" summary="building a blockchain">
+      <created>1595156140579</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595156140579</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="building a blockchain" />
+    <option name="LAST_COMMIT_MESSAGE" value="building a blockchain" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="722" y="90" key="#Notifications" timestamp="1595156018678">
+    <state x="654" y="295" key="#Notifications" timestamp="1595408331238">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="722" y="90" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1595156018678" />
-    <state x="379" y="25" key="CommitChangelistDialog2" timestamp="1595154614811">
+    <state x="654" y="295" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1595408331238" />
+    <state x="417" y="114" width="523" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1595408621781">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="379" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1595154614811" />
-    <state x="933" y="187" key="FileChooserDialogImpl" timestamp="1595077732017">
+    <state x="417" y="114" width="523" height="636" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.864@0.0.1536.864" timestamp="1595408621781" />
+    <state x="933" y="187" key="FileChooserDialogImpl" timestamp="1595408512818">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="933" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595077732017" />
-    <state x="596" y="346" width="368" height="171" key="Github.CreateGistDialog" timestamp="1595154432584">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="596" y="346" width="368" height="171" key="Github.CreateGistDialog/0.0.1536.864@0.0.1536.864" timestamp="1595154432584" />
+    <state x="933" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595408512818" />
     <state width="724" height="212" key="GridCell.Tab.0.bottom" timestamp="1595117096537">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -140,10 +188,6 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="540" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595107656917" />
-    <state x="955" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595156119939">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="955" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1595156119939" />
     <state x="794" y="165" width="700" height="530" key="recent.locations.popup" timestamp="1595083071625">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

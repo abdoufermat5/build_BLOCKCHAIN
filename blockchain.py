@@ -13,15 +13,15 @@ blockchain = [genesis_block]
 # Unhandled transactions
 open_transactions = []
 # We are the owner of this blockchain node, hence this is our identifier (e.g. for sending coins)
-owner = 'Abdou'
+owner = 'Max'
 # Registered participants: Ourself + other people sending/ receiving coins
-participants = {'Abdou'}
+participants = {'Max'}
 
 
 
 def hash_block(block):
     """Hashes a block and returns a string representation of it.
-
+    
     Arguments:
         :block: The block that should be hashed.
     """
@@ -216,7 +216,7 @@ while waiting_for_input:
         print('Invalid blockchain!')
         # Break out of the loop
         break
-    print('Balance of {}: {}'.format(owner, get_balance('Abdou')))
+    print('Balance of {}: {:6.2f}'.format('Max', get_balance('Max')))
 else:
     print('User left!')
 
